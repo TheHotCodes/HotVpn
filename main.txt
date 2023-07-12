@@ -1,1 +1,1 @@
-http://goblinnet.tk:8000
+http://goblinnet.tk:8000/
