@@ -1,1 +1,1 @@
-http://91.107.158.171/HotVpnApi3
+http://api3.hotvpn.pro/HotVpnApi3
