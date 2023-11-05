@@ -1,1 +1,1 @@
-https://api.hotvpn.pro/HotVpnApi
+https://api.hotvpn.pro/HotVpnApi4/
