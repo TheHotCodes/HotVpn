@@ -1,1 +1,1 @@
-https://numberbox.app/hotvpn/
+https://api.hotvpn.pro/HotVpnApi4/
