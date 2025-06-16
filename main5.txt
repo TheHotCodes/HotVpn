@@ -1,1 +1,1 @@
-http://raw.githubusercontent.com/TheHotCodes/HotVpn/refs/heads/main/
+http://api.hotvpn.pro/HotVpnApi5/
