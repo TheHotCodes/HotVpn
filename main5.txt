@@ -1,1 +1,1 @@
-http://api3.hotvpn.pro/HotVpnApi5/
+http://api2.hotvpn.pro/HotVpnApi5/
