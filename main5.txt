@@ -1,1 +1,1 @@
-http://65.109.240.134/HotVpnApi5/
+https://api2.hotvpn.pro/HotVpnApi5/
