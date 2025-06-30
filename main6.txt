@@ -1,1 +1,1 @@
-{"url": "https://raw.githubusercontent.com/TheHotCodes/HotVpn/main/","method": "GET"}
+{"url": "http://hepomo.pro/HotVpnApi6/","method": "GET"}
