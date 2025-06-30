@@ -1,5 +1,5 @@
 {
   "url": "http://api2.hotvpn.pro/HotVpnApi5/",
   "method": "POST",
-  "body": true
+  "body": false
 }
