@@ -1,1 +1,1 @@
-https://api2.hotvpn.pro/HotVpnApi4/
+http://hepomo.pro/HotVpnApi4/
