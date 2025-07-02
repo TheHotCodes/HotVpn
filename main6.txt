@@ -1,1 +1,1 @@
-{"url": "http://hepomo.pro/HotVpnApi6/","method": "GET"}
+{"url": "http://apinew.emshabshabemahtabehabibamromikham.monster/HotVpnApi6/","method": "GET"}
