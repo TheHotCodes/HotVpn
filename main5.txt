@@ -1,1 +1,1 @@
-http://api.zalmacx.xyz/HotVpnApi5/
+http://api.zalmacx.xyz:8080/HotVpnApi5/
