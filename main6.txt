@@ -1,1 +1,1 @@
-{"url": "http://api.zalmacx.xyz:8080/HotVpnApi6/","method": "GET"}
+{"url": "https://api2-hotvpn-pro.translate.goog/HotVpnApi6/","method": "GET"}
