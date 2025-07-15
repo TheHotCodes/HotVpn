@@ -1,4 +1,4 @@
 {
   "url": "http://api.zalmacx.xyz:8080/HotVpnApi7/",
-  "data": true
+  "data": false
 }
