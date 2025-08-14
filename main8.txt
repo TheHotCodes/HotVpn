@@ -1,1 +1,1 @@
-{"url": "http://api.zalmacx.xyz:8080/HotVpnApi8/","data": false}
+{"url": "http://192.168.1.103/","data": false}
