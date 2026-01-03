@@ -1,1 +1,1 @@
-{"url": "http://api.hotvpn.pro/HotVpnApi8/","data": false}
+{"url": "http://91.107.158.171/HotVpnApi8/","data": false}
