@@ -1,1 +1,1 @@
-{"url": "http://api.hotvpn.pro/HotVpnApi8/","data": false}
+{"url": "https://raw.githubusercontent.com/TheHotCodes/HotVpn/main/","data": false}
