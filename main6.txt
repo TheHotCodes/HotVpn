@@ -1,1 +1,0 @@
-{"url": "https://api2-hotvpn-pro.translate.goog/HotVpnApi6/","method": "GET"}
