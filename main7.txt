@@ -1,4 +1,0 @@
-{
-  "url": "http://api.hotvpn.pro/HotVpnApi7/",
-  "data": false
-}
