@@ -1,1 +1,1 @@
-{"url": "https://raw.githubusercontent.com/TheHotCodes/HotVpn/main9/","data": false}
+{"url": "https://raw.githubusercontent.com/TheHotCodes/HotVpn/main10/","data": false}
